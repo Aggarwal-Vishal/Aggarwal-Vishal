@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aggarwal-Vishal
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning DSA 
-- 💞️ I’m looking to collaborate on anything I will be able to
+- 👋 Hi, I’m a fullstack Developer from India.
+- I love to build ideas into real products.
+- I also like problem solving.
+- If you wanna build something together then shoot your mail to me.
 - 📫 Contact me a: 007vishal.aggarwal@gmail.com
 
 <!---
